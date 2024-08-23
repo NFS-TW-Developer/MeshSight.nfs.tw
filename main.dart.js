@@ -90957,7 +90957,7 @@ $1(a){var s=this.a
 return B.d.i5(a,A.h(s==null?null:J.al(s,"hardware"))+".jpg")},
 $S:9}
 A.au3.prototype={
-$0(){return"assets/images/meshtastic/device/0.default.jpg"},
+$0(){return"assets/images/meshtastic/device/0.default.png"},
 $S:38}
 A.au4.prototype={
 $1(a0){var s,r,q,p,o,n,m,l,k,j,i,h=this,g=null,f="altitude",e="Altitude",d="satsInView",c="precisionInMeters",b=t.l,a=A.bQ(a0,g,b).w
