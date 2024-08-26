@@ -1,11 +1,11 @@
 {
-    "name": "MeshSight APP - Third-Party Meshtastic Node Map",
+    "name": "MeshSight APP",
     "short_name": "MeshSight APP",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "MeshSight APP - Third-Party Meshtastic Node Map",
+    "description": "MeshSight APP",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
