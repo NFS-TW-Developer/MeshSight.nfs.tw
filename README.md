@@ -1,6 +1,7 @@
 # MeshSight.nfs.tw
 
 ## 簡介
+MeshSight 是一款第三方的視覺化呈現 Meshtastic 節點地圖資訊的專案，任何人都可以建立屬於自己的地圖。
 本倉儲存放了由 [MeshSight-APP-Flutter](https://github.com/edwinyoo44/MeshSight-APP-Flutter) 所編譯為 web 版本後的內容，並且透過 GitHub Pages 進行展示。
 
 ## 截圖
@@ -15,7 +16,7 @@ This project is not affiliated with or endorsed by the Meshtastic project.
 The Meshtastic logo is the trademark of Meshtastic LLC.
 
 ## 倉儲狀態
-![Alt](https://repobeats.axiom.co/api/embed/5e3eed52096ef7dca9f2c08e3bfa94df53f19759.svg "Repobeats analytics image")
+![Alt](https://repobeats.axiom.co/api/embed/b75ea25328c4e9f1f37cd43065bade8198cef0af.svg "Repobeats analytics image")
 
 ## 相關專案
 - [MeshSight](https://github.com/edwinyoo44/MeshSight)：後端 API  
