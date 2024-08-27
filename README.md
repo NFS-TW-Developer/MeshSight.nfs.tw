@@ -1,4 +1,5 @@
 # MeshSight.nfs.tw
+<img src = "https://raw.githubusercontent.com/edwinyoo44/MeshSight-APP-Flutter/master/assets/images/app_icon.png" width = "128" />
 
 ## 簡介
 MeshSight 是一款第三方的視覺化呈現 Meshtastic 節點地圖資訊的專案，任何人都可以建立屬於自己的地圖。
