@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "828a005670811582ff3ea3c7748a801c",
-"version.json": "f43d867198bebe906c4c924ad812c409",
+const RESOURCES = {"flutter_bootstrap.js": "af067cb11cd14208be2062946b42c3c6",
+"version.json": "dfbf118138d4796d79cf977e7d23e4f4",
 "index.html": "7511c10d41ba7c5d55c3e3daf4e1cded",
 "/": "7511c10d41ba7c5d55c3e3daf4e1cded",
 "main.dart.js": "e0df854169239bef6525915abc54ff7b",
@@ -73,7 +73,7 @@ const RESOURCES = {"flutter_bootstrap.js": "828a005670811582ff3ea3c7748a801c",
 "assets/assets/images/meshtastic/device/4.TBEAM.jpg": "f447d64423be1152d98d678ffdc7761b",
 "assets/assets/images/meshtastic/device/51.T_WATCH_S3.jpg": "277a627bd81c9ae9601eee51650d15ba",
 "assets/assets/images/meshtastic/device/5.HELTEC_V2_0.jpg": "eceecd96b31d3d8ee998bfd6aff5dec2",
-"assets/assets/cfg/app_settings.json": "32ed08385172b86edc37452679ce4e5b",
+"assets/assets/cfg/app_settings.json": "ef68c3577a2c3fbff49bbe7679fb8fa9",
 "canvaskit/skwasm.js": "5d4f9263ec93efeb022bb14a3881d240",
 "canvaskit/skwasm.js.symbols": "c3c05bd50bdf59da8626bbe446ce65a3",
 "canvaskit/canvaskit.js.symbols": "74a84c23f5ada42fe063514c587968c6",
