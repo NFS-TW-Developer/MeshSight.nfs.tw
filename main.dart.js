@@ -110420,7 +110420,7 @@ H(a){var s,r=this,q=null,p=r.r,o=A.pg(B.SE,B.SC),n=r.as,m=r.d.e,l=r.ay?B.MD:B.RQ
 m=A.a([A.Dg(B.bm,l,m,r.gahv()),B.ok,A.Dg(B.bm,B.RL,m,r.gapM()),B.ok,A.Dg(B.bm,B.RJ,m,r.gapO()),B.ok],k)
 l=r.a.c
 s=r.d.e
-if(l)B.b.O(m,A.a([A.Dg(B.bm,A.anY("images/app_icon.png",q),s,new A.aIq())],k))
+if(l)B.b.O(m,A.a([A.Dg(B.bm,A.anY("assets/images/app_icon.png",q),s,new A.aIq())],k))
 else B.b.O(m,A.a([A.Dg(B.bm,B.RV,s,r.gapP())],k))
 return A.fC(B.bh,A.a([new A.Dk(n,new A.x1(p.a,p.b,3,18,r.ganW(),new A.Q8(o),B.Sd),r.f,q),A.pG(32,A.fu(m,B.ad,B.ah,B.aY),q,q,q,8,q,q)],k),B.M,B.b8,q)},
 rO(){var s=0,r=A.C(t.H),q=this
