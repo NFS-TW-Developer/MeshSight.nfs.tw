@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "8bad2444401d1707d0d61cfc55f452e3",
-"version.json": "c7f2ad5ca1eedffe8935d1af0c5f8ca4",
+const RESOURCES = {"flutter_bootstrap.js": "05ec81cba66143a7426a56a3a59da92e",
+"version.json": "32859abe1c61e5b77a712063a21276bb",
 "index.html": "0546c7d1ae19d426bafb903ef0aff698",
 "/": "0546c7d1ae19d426bafb903ef0aff698",
-"main.dart.js": "6f1c61816bdaa19cad66b9f087a9cba3",
+"main.dart.js": "150d0f132b323ee77cb4dec4fff9e076",
 "flutter.js": "383e55f7f3cce5be08fcf1f3881f585c",
 "favicon.png": "80ca9cbe76afd413e54645871a397f74",
 "icons/Icon-192.png": "109a3f682ed1e8ddd0137a49f807c404",
@@ -37,7 +37,7 @@ const RESOURCES = {"flutter_bootstrap.js": "8bad2444401d1707d0d61cfc55f452e3",
 "assets/packages/getwidget/icons/facebook.png": "293dc099a89c74ae34a028b1ecd2c1f0",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/AssetManifest.bin": "63009c2cea9c1f67349f051ecfc3ad2d",
-"assets/fonts/MaterialIcons-Regular.otf": "de9746f9bb598b3f08a244939361ab5b",
+"assets/fonts/MaterialIcons-Regular.otf": "a0680611415537a577322565c9022644",
 "assets/assets/images/app_icon.png": "a28758ce5a16083f85f924fa93fe4adf",
 "assets/assets/images/meshtastic/device/10.HELTEC_V2_1.jpg": "36d50863dbab2726fcbef587472aa7b3",
 "assets/assets/images/meshtastic/device/67.HELTEC_VISION_MASTER_E213.jpg": "3494c348daab89bdf1c8107d27f759dd",
